@@ -1,1 +1,8 @@
+print("Hello World!") #print Hello World! in the Python console
+
+print("Hello World!\nHello World!") #print Hello World! NOT on the same line every Hello World! will be printed on sperated line
+
+print("Hello" + " " + "Haitham") #print Hello Haitham with space between them 
+
+input("What is your name?") # The user must to enter his/her name for example enter Haitham in console
 
