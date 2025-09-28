@@ -1,8 +1,11 @@
-print("Hello World!") #print Hello World! in the Python console
+print("Hello World!") ##print Hello World! in the Python console
 
-print("Hello World!\nHello World!") #print Hello World! NOT on the same line every Hello World! will be printed on sperated line
+print("Hello World!\nHello World!") ##print Hello World! NOT on the same line every Hello World! will be printed on sperated line
 
-print("Hello" + " " + "Haitham") #print Hello Haitham with space between them 
+print("Hello" + " " + "Haitham") ##print Hello Haitham with space between them 
 
-input("What is your name?") # The user must to enter his/her name for example enter Haitham in console
+input("What is your name?") ##The user must to enter his/her name for example enter Haitham in console
 
+print("Hello" + input("What is your name?")) ##The user must to enter his/her name for example enter Haitham in console then the output is Hello Haitham
+
+print(len(input("What is your name?"))) ##The console will print out the length of your name
