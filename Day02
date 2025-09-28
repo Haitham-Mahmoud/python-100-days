@@ -20,3 +20,14 @@ print(2**3) ##Note: the output will be 8
 print(3**3) ##Note: the output will be 27
 #### Important #### sequence of mathematical operations Starts with () Then ** Then * or / Then + or -
 
+bmi = 84 / 1.65**2  
+print(bmi) ##the output will be 30.85399449035813
+print(int(bmi)) ##the output will be 30 without decimal places
+print(round(bmi)) ##the output will be 31 is rounded 30.85399449035813
+print(round(bmi, 2)) ##the output will be rounded to 30.85
+
+print(f"Your score is = {score}, your height is {height}. You are winning is {is_winning}") ##f here to print out any type of data in the same print
+
+
+
+
