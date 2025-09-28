@@ -10,4 +10,13 @@ print(222 + 333) ##Integer = whole number Output is 555
 print(123456789) ##Output is 123456789
 print(123_456_789) ##Output is 123456789 the same output
 
-print (3.1456) #float number Output is 3.1456
+print (3.1456) ##float number Output is 3.1456
+
+print(5/3) ##Note: the output will be float 1.666666
+print(5//3) ##Note: the output will be 1 without decimal places
+
+print(3*3) ##Note: the output will be 9
+print(2**3) ##Note: the output will be 8
+print(3**3) ##Note: the output will be 27
+#### Important #### sequence of mathematical operations Starts with () Then ** Then * or / Then + or -
+
