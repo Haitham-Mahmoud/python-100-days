@@ -3,5 +3,7 @@ if condition:
 else:
   do something else
 
+print(10%3) ##modulo in this example the result wii be 1
+
 
 
